@@ -7,6 +7,7 @@ training data is fit in the model. The three models chosen are:
 1. K-Nearest Neighbor
 2. Support Vector Mechanism (SVM)
 3. Random Forest
+
 After the models are trained, the model values are predicted using the
 testing dataset. Then the performance of the models is evaluated using
 three metrics: Accuracy, Precision, and Recall. The best model is
